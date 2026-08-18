@@ -872,18 +872,18 @@ export default function App() {
                     <Icon name="phone" className="h-4 w-4" />
                   </span>
                   <div>
-                    <span className="block text-[9px] font-bold uppercase tracking-[0.16em] text-[#8e8073]">Call our Islamabad office</span>
-                    <span className="mt-0.5 block text-sm font-semibold text-[#193342] transition hover:text-[#b37e34]">+92 300 123 4567</span>
+                    <span className="block text-[9px] font-bold uppercase tracking-[0.16em] text-[#8e8073]">Call our karcahi  office</span>
+                    <span className="mt-0.5 block text-sm font-semibold text-[#193342] transition hover:text-[#b37e34]">This is a demo website by Nexora Digital</span>
                   </div>
                 </a>
                 
-                <a href="mailto:hello@aabsharjourneys.pk" className="group flex items-center gap-4">
+                <a href="mailto:hello@nexoradigital.com" className="group flex items-center gap-4">
                   <span className="flex h-10 w-10 shrink-0 items-center justify-center rounded-full border border-[#caa76d] text-[#8e6328] transition group-hover:bg-[#8e6328] group-hover:text-white">
                     <Icon name="mail" className="h-4 w-4" />
                   </span>
                   <div>
                     <span className="block text-[9px] font-bold uppercase tracking-[0.16em] text-[#8e8073]">Email our team</span>
-                    <span className="mt-0.5 block text-sm font-semibold text-[#193342] transition hover:text-[#b37e34]">hello@aabsharjourneys.pk</span>
+                    <span className="mt-0.5 block text-sm font-semibold text-[#193342] transition hover:text-[#b37e34]">hello@nexoradigital.com</span>
                   </div>
                 </a>
               </div>
@@ -1050,7 +1050,8 @@ export default function App() {
                   Start Planning Now
                 </button>
                 <a
-                  href="https://wa.me/923001234567?text=Hello%20Aabshar%20Journeys%2C%20I%20would%20like%20to%20plan%20a%20luxury%20custom%20tour."
+                  href="https://wa.me/This is a demo website by Nexora Digital
+Get your custom website today?text=Hello%20Aabshar%20Journeys%2C%20I%20would%20like%20to%20plan%20a%20luxury%20custom%20tour."
                   target="_blank"
                   rel="noreferrer"
                   className="inline-flex h-12 items-center gap-3 rounded-full border border-white/30 px-6 text-[11px] font-bold uppercase tracking-[0.14em] text-white transition hover:border-white hover:bg-white/10"
@@ -1091,7 +1092,7 @@ export default function App() {
                 <a href="https://www.facebook.com" target="_blank" rel="noreferrer" className="social-link animate-none" aria-label="Facebook">
                   <Icon name="facebook" className="h-4 w-4" />
                 </a>
-                <a href="https://wa.me/923001234567" target="_blank" rel="noreferrer" className="social-link animate-none" aria-label="WhatsApp">
+                <a href="https://wa.me/ demo website " target="_blank" rel="noreferrer" className="social-link animate-none" aria-label="WhatsApp">
                   <Icon name="whatsapp" className="h-4 w-4" />
                 </a>
               </div>
@@ -1121,19 +1122,19 @@ export default function App() {
 
             {/* Contact Information */}
             <div>
-              <h3 className="footer-label">Islamabad Headquarters</h3>
+              <h3 className="footer-label">Get your custom website today</h3>
               <ul className="mt-4 space-y-3 text-xs sm:text-sm text-white/70">
                 <li className="flex gap-2.5">
                   <Icon name="map-pin" className="mt-0.5 h-4 w-4 shrink-0 text-[#e8bd78]" />
-                  <span>F-7 Markaz, Islamabad, Capital Territory, Pakistan</span>
+                  <span>Get your custom website today, Pakistan</span>
                 </li>
                 <li className="flex gap-2.5">
                   <Icon name="mail" className="h-4 w-4 shrink-0 text-[#e8bd78]" />
-                  <a href="mailto:hello@aabsharjourneys.pk" className="footer-link">hello@aabsharjourneys.pk</a>
+                  <a href="mailto:hello@nexoradigital.com" className="footer-link">hello@nexoradigital.com</a>
                 </li>
                 <li className="flex gap-2.5">
                   <Icon name="phone" className="h-4 w-4 shrink-0 text-[#e8bd78]" />
-                  <a href="tel:+923001234567" className="footer-link">+92 300 123 4567</a>
+                  <a href="tel:This is a demo website by Nexora Digital" className="footer-link">This is a demo website by Nexora Digital</a>
                 </li>
               </ul>
             </div>
